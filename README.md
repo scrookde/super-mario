@@ -2,7 +2,7 @@
 
 ...
 
-## Installation
+## Links
 
 Website: ...
 
