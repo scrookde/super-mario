@@ -7,7 +7,7 @@
 Website: ...
 
 ## Developer
-Coniass
+Tim
 Ediz
 Erik
 
